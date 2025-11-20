@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Shack
+* source:	https://sketchfab.com/3d-models/old-shack-4698d6d9b2c444dca5cc78637e0dfd90
+* author:	Myjato (https://sketchfab.com/Myjato)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Shack" (https://sketchfab.com/3d-models/old-shack-4698d6d9b2c444dca5cc78637e0dfd90) by Myjato (https://sketchfab.com/Myjato) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

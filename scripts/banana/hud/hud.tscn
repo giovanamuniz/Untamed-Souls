@@ -1,0 +1,70 @@
+[gd_scene load_steps=6 format=3 uid="uid://dd2qdkjy187y5"]
+
+[ext_resource type="Script" uid="uid://dksspms0x3uy2" path="res://scripts/banana/hud/hud.gd" id="1_gdp7d"]
+[ext_resource type="FontFile" uid="uid://b7jvep4x4s1xg" path="res://assets/fonts/Honk-Regular-VariableFont_MORF,SHLN.ttf" id="2_q257d"]
+[ext_resource type="Texture2D" uid="uid://vbf5gq257gw2" path="res://assets/images/coracao.png" id="2_uuylw"]
+[ext_resource type="FontFile" uid="uid://chkyanhq4wrdo" path="res://assets/fonts/PressStart2P-Regular.ttf" id="3_sefi6"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_u37uf"]
+bg_color = Color(0, 0, 0, 0.419608)
+corner_radius_top_left = 15
+corner_radius_top_right = 15
+corner_radius_bottom_right = 15
+corner_radius_bottom_left = 15
+
+[node name="HUD" type="CanvasLayer"]
+script = ExtResource("1_gdp7d")
+
+[node name="Panel" type="Panel" parent="."]
+visible = false
+offset_left = 32.0
+offset_top = 24.0
+offset_right = 179.0
+offset_bottom = 76.0
+theme_override_styles/panel = SubResource("StyleBoxFlat_u37uf")
+
+[node name="Heart1" type="TextureRect" parent="."]
+offset_left = 68.0
+offset_top = 29.0
+offset_right = 164.0
+offset_bottom = 119.0
+texture = ExtResource("2_uuylw")
+expand_mode = 1
+
+[node name="Label" type="Label" parent="."]
+visible = false
+offset_left = 93.0
+offset_top = 29.0
+offset_right = 136.0
+offset_bottom = 72.0
+theme_override_fonts/font = ExtResource("2_q257d")
+theme_override_font_sizes/font_size = 28
+text = "X"
+
+[node name="BananasLabel" type="Label" parent="."]
+visible = false
+offset_left = 2.0
+offset_top = 259.0
+offset_right = 72.0
+offset_bottom = 310.0
+theme_override_colors/font_color = Color(0.91802543, 0.17255813, 0.26515415, 1)
+theme_override_colors/font_shadow_color = Color(1, 1, 1, 0)
+theme_override_fonts/font = ExtResource("3_sefi6")
+theme_override_font_sizes/font_size = 35
+text = "##"
+
+[node name="Heart2" type="TextureRect" parent="."]
+offset_left = 179.0
+offset_top = 29.0
+offset_right = 276.0
+offset_bottom = 119.0
+texture = ExtResource("2_uuylw")
+expand_mode = 1
+
+[node name="Heart3" type="TextureRect" parent="."]
+offset_left = 291.0
+offset_top = 29.0
+offset_right = 387.0
+offset_bottom = 119.0
+texture = ExtResource("2_uuylw")
+expand_mode = 1

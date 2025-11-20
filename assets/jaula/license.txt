@@ -1,0 +1,11 @@
+Model Information:
+* title:	Square Rat Cage - Steampunk
+* source:	https://sketchfab.com/3d-models/square-rat-cage-steampunk-4834f44b7ef342129178579af4bd277c
+* author:	Alf Does Stuff (https://sketchfab.com/alfdoesstuff)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Square Rat Cage - Steampunk" (https://sketchfab.com/3d-models/square-rat-cage-steampunk-4834f44b7ef342129178579af4bd277c) by Alf Does Stuff (https://sketchfab.com/alfdoesstuff) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

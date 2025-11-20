@@ -1,0 +1,11 @@
+Model Information:
+* title:	Barrel Stove
+* source:	https://sketchfab.com/3d-models/barrel-stove-a37eae54e2ee45b3b4e1a0acb2517d8a
+* author:	TegnoGenial (https://sketchfab.com/TegnoGenial)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Barrel Stove" (https://sketchfab.com/3d-models/barrel-stove-a37eae54e2ee45b3b4e1a0acb2517d8a) by TegnoGenial (https://sketchfab.com/TegnoGenial) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

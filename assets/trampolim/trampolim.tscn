@@ -1,0 +1,25 @@
+[gd_scene load_steps=4 format=3 uid="uid://ddur4on37juq8"]
+
+[ext_resource type="Script" uid="uid://dlwh27v3n3ky3" path="res://trampolim.gd" id="1_3nh2d"]
+[ext_resource type="PackedScene" uid="uid://beaxpwwkqn3bf" path="res://assets/trampolim/scene.gltf" id="2_oek0f"]
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_w4gi0"]
+height = 1.0
+radius = 3.5
+
+[node name="Trampolim" type="Area3D"]
+collision_layer = 15
+collision_mask = 15
+script = ExtResource("1_3nh2d")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+layers = 31
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.65971994, -0.36600077, -1.3849622)
+shape = SubResource("CylinderShape3D_w4gi0")
+
+[node name="Sketchfab_Scene" parent="." instance=ExtResource("2_oek0f")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.71050656, 1.1920929e-07, -1.3301411)
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
