@@ -1,7 +1,7 @@
 [gd_scene load_steps=7 format=3 uid="uid://c53up8jjtf21q"]
 
-[ext_resource type="Script" uid="uid://cp58exdrupdt6" path="res://scripts/banana.gd" id="1_fsd0w"]
-[ext_resource type="ArrayMesh" uid="uid://cb1tudd8farbs" path="res://assets/banana/banana_new.res" id="2_q2k4p"]
+[ext_resource type="Script" uid="uid://cp58exdrupdt6" path="res://Level2/scripts/banana.gd" id="1_fsd0w"]
+[ext_resource type="ArrayMesh" uid="uid://cb1tudd8farbs" path="res://Level2/assets/banana/banana_new.res" id="2_q2k4p"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_xnt0o"]
 radius = 0.364307

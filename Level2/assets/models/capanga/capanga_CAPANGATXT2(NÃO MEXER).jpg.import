@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4lv7ds2u6jjm"
-path.s3tc="res://.godot/imported/capanga_CAPANGATXT2(NÃO MEXER).jpg-be8c5cf5f98e93f5c559cb9e88b5c568.s3tc.ctex"
+path.s3tc="res://.godot/imported/capanga_CAPANGATXT2(NÃO MEXER).jpg-ad66300e6515157d969a66d3a7482b06.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://assets/models/capanga/capanga_CAPANGATXT2(NÃO MEXER).jpg"
-dest_files=["res://.godot/imported/capanga_CAPANGATXT2(NÃO MEXER).jpg-be8c5cf5f98e93f5c559cb9e88b5c568.s3tc.ctex"]
+source_file="res://Level2/assets/models/capanga/capanga_CAPANGATXT2(NÃO MEXER).jpg"
+dest_files=["res://.godot/imported/capanga_CAPANGATXT2(NÃO MEXER).jpg-ad66300e6515157d969a66d3a7482b06.s3tc.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://yolxra27hw3c"
-path="res://.godot/imported/fence_concrete-_15mb.glb-be23bd77c4b884477a4c3f1b9081db44.scn"
+path="res://.godot/imported/fence_concrete-_15mb.glb-4ee96226087b703ed56019b87a5cdac3.scn"
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/fence_concrete-_15mb.glb"
-dest_files=["res://.godot/imported/fence_concrete-_15mb.glb-be23bd77c4b884477a4c3f1b9081db44.scn"]
+source_file="res://Level2/scenes/levels/BossFight/Models/fence_concrete-_15mb.glb"
+dest_files=["res://.godot/imported/fence_concrete-_15mb.glb-4ee96226087b703ed56019b87a5cdac3.scn"]
 
 [params]
 

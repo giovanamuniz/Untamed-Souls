@@ -1,0 +1,41 @@
+[gd_scene load_steps=8 format=3 uid="uid://dwjp7kjftkhts"]
+
+[ext_resource type="Script" uid="uid://cp58exdrupdt6" path="res://Level2/scripts/banana.gd" id="1_fsd0w"]
+[ext_resource type="PackedScene" uid="uid://bkbph6l3vk1f0" path="res://Level1/assets/banana/BANANA.glb" id="2_3dn0g"]
+[ext_resource type="Texture2D" uid="uid://3sooyrkmq0c4" path="res://Level1/scripts/banana/TexturaBanana.png" id="3_s0x4w"]
+[ext_resource type="AudioStream" uid="uid://6p8ldlbhudnj" path="res://Level1/assets/audios/SoundEffects/coin-coin3.ogg" id="4_k6s4a"]
+
+[sub_resource type="CylinderShape3D" id="CylinderShape3D_fsd0w"]
+height = 0.15
+radius = 0.3
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_k6s4a"]
+albedo_color = Color(1, 1, 0.105882, 1)
+albedo_texture = ExtResource("3_s0x4w")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_s0x4w"]
+albedo_texture = ExtResource("3_s0x4w")
+
+[node name="Banana" type="Area3D"]
+collision_layer = 15
+collision_mask = 15
+script = ExtResource("1_fsd0w")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+transform = Transform3D(0.000752858, -1, -0.00059706, 1, 0.000752964, -0.00017849, 0.000178938, -0.000596926, 1, 0, 0, 0)
+shape = SubResource("CylinderShape3D_fsd0w")
+
+[node name="BANANA" parent="." instance=ExtResource("2_3dn0g")]
+transform = Transform3D(0.197955, 0, 0, 0, 0.206789, 0, 0, 0, 0.292973, -0.0265136, -0.462498, 0.0702589)
+
+[node name="BANANA-DE-CRIA" parent="BANANA" index="0"]
+layers = 31
+material_override = SubResource("StandardMaterial3D_k6s4a")
+material_overlay = SubResource("StandardMaterial3D_s0x4w")
+
+[node name="SomColeta" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_k6s4a")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]
+
+[editable path="BANANA"]

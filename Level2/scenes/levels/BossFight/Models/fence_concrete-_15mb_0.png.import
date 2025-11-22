@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv5epx0hace8f"
-path.s3tc="res://.godot/imported/fence_concrete-_15mb_0.png-9ea49e6eac516a59182d725f359172f0.s3tc.ctex"
+path.s3tc="res://.godot/imported/fence_concrete-_15mb_0.png-8d29af2c42d2774863e8d6d1dfa55bd8.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/fence_concrete-_15mb_0.png"
-dest_files=["res://.godot/imported/fence_concrete-_15mb_0.png-9ea49e6eac516a59182d725f359172f0.s3tc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Models/fence_concrete-_15mb_0.png"
+dest_files=["res://.godot/imported/fence_concrete-_15mb_0.png-8d29af2c42d2774863e8d6d1dfa55bd8.s3tc.ctex"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dl7a75gnl0iwq"
-path.s3tc="res://.godot/imported/Boss_BOSSTXT2(N MEXER).jpg-5653c2d9f79cb45ec6756bfa9298b1dc.s3tc.ctex"
+path.s3tc="res://.godot/imported/Boss_BOSSTXT2(N MEXER).jpg-c480918d770f48bd16314a0366efeaed.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/Boss_BOSSTXT2(N MEXER).jpg"
-dest_files=["res://.godot/imported/Boss_BOSSTXT2(N MEXER).jpg-5653c2d9f79cb45ec6756bfa9298b1dc.s3tc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Models/Boss_BOSSTXT2(N MEXER).jpg"
+dest_files=["res://.godot/imported/Boss_BOSSTXT2(N MEXER).jpg-c480918d770f48bd16314a0366efeaed.s3tc.ctex"]
 
 [params]
 

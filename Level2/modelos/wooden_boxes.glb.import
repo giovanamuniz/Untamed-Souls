@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bj5cso52vu32p"
-path="res://.godot/imported/wooden_boxes.glb-10d4dd8f1757bcb29d6ac6bb30f413dc.scn"
+path="res://.godot/imported/wooden_boxes.glb-73fd42657511affa6b5c451c3b0dea8c.scn"
 
 [deps]
 
-source_file="res://modelos/wooden_boxes.glb"
-dest_files=["res://.godot/imported/wooden_boxes.glb-10d4dd8f1757bcb29d6ac6bb30f413dc.scn"]
+source_file="res://Level2/modelos/wooden_boxes.glb"
+dest_files=["res://.godot/imported/wooden_boxes.glb-73fd42657511affa6b5c451c3b0dea8c.scn"]
 
 [params]
 

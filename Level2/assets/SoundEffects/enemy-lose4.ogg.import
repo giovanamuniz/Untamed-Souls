@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bqk303dsf7nwj"
-path="res://.godot/imported/enemy-lose4.ogg-1a4a7e5a1b81992c3589846f42244b15.oggvorbisstr"
+path="res://.godot/imported/enemy-lose4.ogg-b54dd84f2b0c7f03246e34465f92fa50.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/SoundEffects/enemy-lose4.ogg"
-dest_files=["res://.godot/imported/enemy-lose4.ogg-1a4a7e5a1b81992c3589846f42244b15.oggvorbisstr"]
+source_file="res://Level2/assets/SoundEffects/enemy-lose4.ogg"
+dest_files=["res://.godot/imported/enemy-lose4.ogg-b54dd84f2b0c7f03246e34465f92fa50.oggvorbisstr"]
 
 [params]
 

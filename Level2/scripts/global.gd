@@ -18,7 +18,7 @@ func take_damage(amount = 1):
 	current_health -= amount
 	get_tree().reload_current_scene()
 	if current_health < 0:
-		get_tree().change_scene_to_file("res://scenes/menus/menu_game_over.tscn")
+		get_tree().change_scene_to_file("res://Level2/scenes/menus/menu_game_over.tscn")
 		current_health = 0
 	
 	print("DANO! Vida é ", current_health)

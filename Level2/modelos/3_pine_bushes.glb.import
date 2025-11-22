@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dl8wtniaa12jc"
-path="res://.godot/imported/3_pine_bushes.glb-c13a820074e8216684385d1c4448dec3.scn"
+path="res://.godot/imported/3_pine_bushes.glb-f6758cda18ff07ec42e0adb94509414f.scn"
 
 [deps]
 
-source_file="res://modelos/3_pine_bushes.glb"
-dest_files=["res://.godot/imported/3_pine_bushes.glb-c13a820074e8216684385d1c4448dec3.scn"]
+source_file="res://Level2/modelos/3_pine_bushes.glb"
+dest_files=["res://.godot/imported/3_pine_bushes.glb-f6758cda18ff07ec42e0adb94509414f.scn"]
 
 [params]
 

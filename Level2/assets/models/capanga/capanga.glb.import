@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dg6pb0qly3i1b"
-path="res://.godot/imported/capanga.glb-9738cd990f2f3d02e488204379f78f5e.scn"
+path="res://.godot/imported/capanga.glb-2900430840c7f3dbd189199ba39b83f0.scn"
 
 [deps]
 
-source_file="res://assets/models/capanga/capanga.glb"
-dest_files=["res://.godot/imported/capanga.glb-9738cd990f2f3d02e488204379f78f5e.scn"]
+source_file="res://Level2/assets/models/capanga/capanga.glb"
+dest_files=["res://.godot/imported/capanga.glb-2900430840c7f3dbd189199ba39b83f0.scn"]
 
 [params]
 

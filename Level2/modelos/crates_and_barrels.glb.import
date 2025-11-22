@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bm51uc8pcg6wi"
-path="res://.godot/imported/crates_and_barrels.glb-0d2590df75daa867a782d84f25c5dec1.scn"
+path="res://.godot/imported/crates_and_barrels.glb-793e7a7840d858a7cc0f2da22a19fb75.scn"
 
 [deps]
 
-source_file="res://modelos/crates_and_barrels.glb"
-dest_files=["res://.godot/imported/crates_and_barrels.glb-0d2590df75daa867a782d84f25c5dec1.scn"]
+source_file="res://Level2/modelos/crates_and_barrels.glb"
+dest_files=["res://.godot/imported/crates_and_barrels.glb-793e7a7840d858a7cc0f2da22a19fb75.scn"]
 
 [params]
 

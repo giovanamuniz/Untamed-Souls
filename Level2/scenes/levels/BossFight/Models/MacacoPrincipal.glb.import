@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bjfoqp07simlt"
-path="res://.godot/imported/MacacoPrincipal.glb-7ff53b53607469ef3b730646511baa3a.scn"
+path="res://.godot/imported/MacacoPrincipal.glb-c5fe20f2aa35d7dbcaeb1998517e39de.scn"
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/MacacoPrincipal.glb"
-dest_files=["res://.godot/imported/MacacoPrincipal.glb-7ff53b53607469ef3b730646511baa3a.scn"]
+source_file="res://Level2/scenes/levels/BossFight/Models/MacacoPrincipal.glb"
+dest_files=["res://.godot/imported/MacacoPrincipal.glb-c5fe20f2aa35d7dbcaeb1998517e39de.scn"]
 
 [params]
 

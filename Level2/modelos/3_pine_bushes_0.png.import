@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8m7682x6vnvc"
-path.s3tc="res://.godot/imported/3_pine_bushes_0.png-3abdbd29890474dcea99f943944c5e9d.s3tc.ctex"
+path.s3tc="res://.godot/imported/3_pine_bushes_0.png-2393f0d4d443b173a8e142569789a743.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://modelos/3_pine_bushes_0.png"
-dest_files=["res://.godot/imported/3_pine_bushes_0.png-3abdbd29890474dcea99f943944c5e9d.s3tc.ctex"]
+source_file="res://Level2/modelos/3_pine_bushes_0.png"
+dest_files=["res://.godot/imported/3_pine_bushes_0.png-2393f0d4d443b173a8e142569789a743.s3tc.ctex"]
 
 [params]
 

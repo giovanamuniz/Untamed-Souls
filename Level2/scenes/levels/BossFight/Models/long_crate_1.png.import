@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm6xm6hc3bxwg"
-path.s3tc="res://.godot/imported/long_crate_1.png-378273d3b0ec3935a4da72d1417a952e.s3tc.ctex"
+path.s3tc="res://.godot/imported/long_crate_1.png-0a9bf16844e18ba54d0783aad3663da2.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/long_crate_1.png"
-dest_files=["res://.godot/imported/long_crate_1.png-378273d3b0ec3935a4da72d1417a952e.s3tc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Models/long_crate_1.png"
+dest_files=["res://.godot/imported/long_crate_1.png-0a9bf16844e18ba54d0783aad3663da2.s3tc.ctex"]
 
 [params]
 

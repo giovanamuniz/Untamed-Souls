@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://plrkjwdusvbn"
-path.bptc="res://.godot/imported/satara_night_no_lamps_4k.exr-a876d6990308185f9fcc16561014b7c9.bptc.ctex"
+path.bptc="res://.godot/imported/satara_night_no_lamps_4k.exr-0b080d488bf559b829eca57e3071b4a5.bptc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Images/satara_night_no_lamps_4k.exr"
-dest_files=["res://.godot/imported/satara_night_no_lamps_4k.exr-a876d6990308185f9fcc16561014b7c9.bptc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Images/satara_night_no_lamps_4k.exr"
+dest_files=["res://.godot/imported/satara_night_no_lamps_4k.exr-0b080d488bf559b829eca57e3071b4a5.bptc.ctex"]
 
 [params]
 

@@ -4,7 +4,7 @@ extends CanvasLayer
 @onready var heart2 = $Heart2
 @onready var heart3 = $Heart3
 
-var full_heart_texture = preload("res://assets/images/coracao.png")
+var full_heart_texture = preload("res://Level2/assets/images/coracao.png")
 
 func _ready():
 	# Conecta ao sinal de VIDA

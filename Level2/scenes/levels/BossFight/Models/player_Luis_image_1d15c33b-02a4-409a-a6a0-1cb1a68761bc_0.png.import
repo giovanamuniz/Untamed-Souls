@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0020cp8uhatg"
-path.s3tc="res://.godot/imported/player_Luis_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_0.png-66be87aaf36a48c92c635270b113fc8b.s3tc.ctex"
+path.s3tc="res://.godot/imported/player_Luis_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_0.png-512c3501852a3f9d908b5658d4816c54.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/player_Luis_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_0.png"
-dest_files=["res://.godot/imported/player_Luis_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_0.png-66be87aaf36a48c92c635270b113fc8b.s3tc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Models/player_Luis_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_0.png"
+dest_files=["res://.godot/imported/player_Luis_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_0.png-512c3501852a3f9d908b5658d4816c54.s3tc.ctex"]
 
 [params]
 

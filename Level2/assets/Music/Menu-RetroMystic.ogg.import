@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cy4mn8j1ie6lc"
-path="res://.godot/imported/Menu-RetroMystic.ogg-3f193964b81c0f4592393d9f706336fc.oggvorbisstr"
+path="res://.godot/imported/Menu-RetroMystic.ogg-e3e089d362086217ac70f0f839be829f.oggvorbisstr"
 
 [deps]
 
-source_file="res://assets/Music/Menu-RetroMystic.ogg"
-dest_files=["res://.godot/imported/Menu-RetroMystic.ogg-3f193964b81c0f4592393d9f706336fc.oggvorbisstr"]
+source_file="res://Level2/assets/Music/Menu-RetroMystic.ogg"
+dest_files=["res://.godot/imported/Menu-RetroMystic.ogg-e3e089d362086217ac70f0f839be829f.oggvorbisstr"]
 
 [params]
 

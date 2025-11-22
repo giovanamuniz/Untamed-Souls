@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ce8fa2dfxnghw"
-path.s3tc="res://.godot/imported/destroyed_ground_0.jpg-df8b84759d1440b98557c09c7469c79d.s3tc.ctex"
+path.s3tc="res://.godot/imported/destroyed_ground_0.jpg-d647a786f929590d0235d65f7dfedf8d.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/destroyed_ground_0.jpg"
-dest_files=["res://.godot/imported/destroyed_ground_0.jpg-df8b84759d1440b98557c09c7469c79d.s3tc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Models/destroyed_ground_0.jpg"
+dest_files=["res://.godot/imported/destroyed_ground_0.jpg-d647a786f929590d0235d65f7dfedf8d.s3tc.ctex"]
 
 [params]
 

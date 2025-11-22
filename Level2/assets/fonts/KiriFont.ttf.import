@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://81845xxeshc8"
-path="res://.godot/imported/KiriFont.ttf-eea466a2a689c30c01dabfe8f710f196.fontdata"
+path="res://.godot/imported/KiriFont.ttf-902e5370642fbc2b6d981a40bdf044f6.fontdata"
 
 [deps]
 
-source_file="res://assets/fonts/KiriFont.ttf"
-dest_files=["res://.godot/imported/KiriFont.ttf-eea466a2a689c30c01dabfe8f710f196.fontdata"]
+source_file="res://Level2/assets/fonts/KiriFont.ttf"
+dest_files=["res://.godot/imported/KiriFont.ttf-902e5370642fbc2b6d981a40bdf044f6.fontdata"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cbn1vtwmn3rul"
-path="res://.godot/imported/FrancoisOne-Regular.ttf-98049c6e26297093b5f992f1dd39ee85.fontdata"
+path="res://.godot/imported/FrancoisOne-Regular.ttf-cc2f3ff45fcf1b423221c7339dbd9b79.fontdata"
 
 [deps]
 
-source_file="res://assets/fonts/FrancoisOne-Regular.ttf"
-dest_files=["res://.godot/imported/FrancoisOne-Regular.ttf-98049c6e26297093b5f992f1dd39ee85.fontdata"]
+source_file="res://Level2/assets/fonts/FrancoisOne-Regular.ttf"
+dest_files=["res://.godot/imported/FrancoisOne-Regular.ttf-cc2f3ff45fcf1b423221c7339dbd9b79.fontdata"]
 
 [params]
 

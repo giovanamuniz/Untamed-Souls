@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm4k1lvjr8jip"
-path.s3tc="res://.godot/imported/animacao_LuisBASE1_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_1.jpg-d7de771b5c26f448ed890468ee8b58ad.s3tc.ctex"
+path.s3tc="res://.godot/imported/animacao_LuisBASE1_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_1.jpg-7eac45093f2dd167e07ba538b9014b0b.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://assets/models/macaco/animacao_LuisBASE1_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_1.jpg"
-dest_files=["res://.godot/imported/animacao_LuisBASE1_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_1.jpg-d7de771b5c26f448ed890468ee8b58ad.s3tc.ctex"]
+source_file="res://Level2/assets/models/macaco/animacao_LuisBASE1_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_1.jpg"
+dest_files=["res://.godot/imported/animacao_LuisBASE1_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_1.jpg-7eac45093f2dd167e07ba538b9014b0b.s3tc.ctex"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://djrpwuytsjdny"
-path="res://.godot/imported/wooden_crate.glb-2455dec0b47d3b5c100fee43924ee343.scn"
+path="res://.godot/imported/wooden_crate.glb-a73bf4e337585b987447059b451cfb97.scn"
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/wooden_crate.glb"
-dest_files=["res://.godot/imported/wooden_crate.glb-2455dec0b47d3b5c100fee43924ee343.scn"]
+source_file="res://Level2/scenes/levels/BossFight/Models/wooden_crate.glb"
+dest_files=["res://.godot/imported/wooden_crate.glb-a73bf4e337585b987447059b451cfb97.scn"]
 
 [params]
 

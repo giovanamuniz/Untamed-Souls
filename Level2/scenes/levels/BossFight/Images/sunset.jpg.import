@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dwuap18kr4rs2"
-path.s3tc="res://.godot/imported/sunset.jpg-297fef1f2b04dc66b7f559ba0137f4ac.s3tc.ctex"
+path.s3tc="res://.godot/imported/sunset.jpg-4a4450dab8fac745535d28732b7870e6.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Images/sunset.jpg"
-dest_files=["res://.godot/imported/sunset.jpg-297fef1f2b04dc66b7f559ba0137f4ac.s3tc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Images/sunset.jpg"
+dest_files=["res://.godot/imported/sunset.jpg-4a4450dab8fac745535d28732b7870e6.s3tc.ctex"]
 
 [params]
 

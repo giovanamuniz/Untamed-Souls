@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6yjw4pcp5qgj"
-path="res://.godot/imported/destroyed_ground.glb-05688735f84dd052af4d0431b82b1a88.scn"
+path="res://.godot/imported/destroyed_ground.glb-5adaa0afec5edfd7118705a1ce5c71cd.scn"
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/destroyed_ground.glb"
-dest_files=["res://.godot/imported/destroyed_ground.glb-05688735f84dd052af4d0431b82b1a88.scn"]
+source_file="res://Level2/scenes/levels/BossFight/Models/destroyed_ground.glb"
+dest_files=["res://.godot/imported/destroyed_ground.glb-5adaa0afec5edfd7118705a1ce5c71cd.scn"]
 
 [params]
 

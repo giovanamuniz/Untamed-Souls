@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b6itg0lxkxhof"
-path="res://.godot/imported/player.glb-fddfe321c60f8c990fead7953eef8a48.scn"
+path="res://.godot/imported/player.glb-60c16076c70927eff6075abd79c2c298.scn"
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/player.glb"
-dest_files=["res://.godot/imported/player.glb-fddfe321c60f8c990fead7953eef8a48.scn"]
+source_file="res://Level2/scenes/levels/BossFight/Models/player.glb"
+dest_files=["res://.godot/imported/player.glb-60c16076c70927eff6075abd79c2c298.scn"]
 
 [params]
 

@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1u34lmfe3ew1"
-path.s3tc="res://.godot/imported/modular_chain_link_fence_set_1.png-7b28b3225656b1d02c2118fc0037ac62.s3tc.ctex"
+path.s3tc="res://.godot/imported/modular_chain_link_fence_set_1.png-de120591ec9e43d3082da939a6ed675a.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://modelos/modular_chain_link_fence_set_1.png"
-dest_files=["res://.godot/imported/modular_chain_link_fence_set_1.png-7b28b3225656b1d02c2118fc0037ac62.s3tc.ctex"]
+source_file="res://Level2/modelos/modular_chain_link_fence_set_1.png"
+dest_files=["res://.godot/imported/modular_chain_link_fence_set_1.png-de120591ec9e43d3082da939a6ed675a.s3tc.ctex"]
 
 [params]
 

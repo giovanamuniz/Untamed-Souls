@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buxmy5d1xuo8v"
-path.s3tc="res://.godot/imported/BANANA_TEXTURA_FÉ.png-e8a5dfa7134249bcd86ad5e183c53b22.s3tc.ctex"
+path.s3tc="res://.godot/imported/BANANA_TEXTURA_FÉ.png-45c5d02d9991c3c4766577956c12fc07.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://assets/banana/BANANA_TEXTURA_FÉ.png"
-dest_files=["res://.godot/imported/BANANA_TEXTURA_FÉ.png-e8a5dfa7134249bcd86ad5e183c53b22.s3tc.ctex"]
+source_file="res://Level2/assets/banana/BANANA_TEXTURA_FÉ.png"
+dest_files=["res://.godot/imported/BANANA_TEXTURA_FÉ.png-45c5d02d9991c3c4766577956c12fc07.s3tc.ctex"]
 
 [params]
 

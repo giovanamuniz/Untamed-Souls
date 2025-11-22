@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dg2g0bspejtpg"
-path="res://.godot/imported/modular_chain_link_fence_set.glb-a50f349acb45e4afd5a7cc32294e8d85.scn"
+path="res://.godot/imported/modular_chain_link_fence_set.glb-c22213f750f4b912f97f92727df9015b.scn"
 
 [deps]
 
-source_file="res://modelos/modular_chain_link_fence_set.glb"
-dest_files=["res://.godot/imported/modular_chain_link_fence_set.glb-a50f349acb45e4afd5a7cc32294e8d85.scn"]
+source_file="res://Level2/modelos/modular_chain_link_fence_set.glb"
+dest_files=["res://.godot/imported/modular_chain_link_fence_set.glb-c22213f750f4b912f97f92727df9015b.scn"]
 
 [params]
 

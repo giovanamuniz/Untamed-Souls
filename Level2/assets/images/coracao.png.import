@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4cr2urnmex5k"
-path="res://.godot/imported/coracao.png-7c0bd15a96c67688eb417459db5d8bc8.ctex"
+path="res://.godot/imported/coracao.png-62f329d5b906ef56cd9895ba7d796ca5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/images/coracao.png"
-dest_files=["res://.godot/imported/coracao.png-7c0bd15a96c67688eb417459db5d8bc8.ctex"]
+source_file="res://Level2/assets/images/coracao.png"
+dest_files=["res://.godot/imported/coracao.png-62f329d5b906ef56cd9895ba7d796ca5.ctex"]
 
 [params]
 

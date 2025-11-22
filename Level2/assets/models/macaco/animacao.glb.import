@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cro6rw73moux2"
-path="res://.godot/imported/animacao.glb-dfa8cea2744dd97758e9e1bbc5d30ba4.scn"
+path="res://.godot/imported/animacao.glb-c580c208759b4ffa09e6764fed551f7a.scn"
 
 [deps]
 
-source_file="res://assets/models/macaco/animacao.glb"
-dest_files=["res://.godot/imported/animacao.glb-dfa8cea2744dd97758e9e1bbc5d30ba4.scn"]
+source_file="res://Level2/assets/models/macaco/animacao.glb"
+dest_files=["res://.godot/imported/animacao.glb-c580c208759b4ffa09e6764fed551f7a.scn"]
 
 [params]
 

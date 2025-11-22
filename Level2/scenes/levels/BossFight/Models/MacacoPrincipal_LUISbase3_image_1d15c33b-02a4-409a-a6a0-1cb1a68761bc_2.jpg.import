@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0v43v7nxby0g"
-path.s3tc="res://.godot/imported/MacacoPrincipal_LUISbase3_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_2.jpg-175bacfc4cdb280563a54257c2a70f53.s3tc.ctex"
+path.s3tc="res://.godot/imported/MacacoPrincipal_LUISbase3_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_2.jpg-d3da62ad4f47382187b1ed3f57ac18af.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/MacacoPrincipal_LUISbase3_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_2.jpg"
-dest_files=["res://.godot/imported/MacacoPrincipal_LUISbase3_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_2.jpg-175bacfc4cdb280563a54257c2a70f53.s3tc.ctex"]
+source_file="res://Level2/scenes/levels/BossFight/Models/MacacoPrincipal_LUISbase3_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_2.jpg"
+dest_files=["res://.godot/imported/MacacoPrincipal_LUISbase3_image_1d15c33b-02a4-409a-a6a0-1cb1a68761bc_2.jpg-d3da62ad4f47382187b1ed3f57ac18af.s3tc.ctex"]
 
 [params]
 

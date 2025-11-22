@@ -4,12 +4,11 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dbhmvv6yrrihw"
-path="res://.godot/imported/BANANA.glb-6d5d855f6b7d979896157129437b0435.scn"
+valid=false
 
 [deps]
 
-source_file="res://assets/banana/BANANA.glb"
-dest_files=["res://.godot/imported/BANANA.glb-6d5d855f6b7d979896157129437b0435.scn"]
+source_file="res://Level2/assets/banana/BANANA.glb"
 
 [params]
 

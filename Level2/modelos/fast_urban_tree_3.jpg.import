@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://58nu1omxnexm"
-path.s3tc="res://.godot/imported/fast_urban_tree_3.jpg-38d0efc4003f557a6a6434c9fa95ecfa.s3tc.ctex"
+path.s3tc="res://.godot/imported/fast_urban_tree_3.jpg-2cb9feda8d35ab9bed2b47e5aa0ad321.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -14,8 +14,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://modelos/fast_urban_tree_3.jpg"
-dest_files=["res://.godot/imported/fast_urban_tree_3.jpg-38d0efc4003f557a6a6434c9fa95ecfa.s3tc.ctex"]
+source_file="res://Level2/modelos/fast_urban_tree_3.jpg"
+dest_files=["res://.godot/imported/fast_urban_tree_3.jpg-2cb9feda8d35ab9bed2b47e5aa0ad321.s3tc.ctex"]
 
 [params]
 

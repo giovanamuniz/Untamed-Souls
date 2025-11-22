@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://6unvg01niqjj"
-path="res://.godot/imported/low_poly_forest.glb-1956cbba18faca3403c7e5e01c55fd5a.scn"
+path="res://.godot/imported/low_poly_forest.glb-14aac6af1717c85b049fd80adbcd9b4d.scn"
 
 [deps]
 
-source_file="res://scenes/levels/BossFight/Models/low_poly_forest.glb"
-dest_files=["res://.godot/imported/low_poly_forest.glb-1956cbba18faca3403c7e5e01c55fd5a.scn"]
+source_file="res://Level2/scenes/levels/BossFight/Models/low_poly_forest.glb"
+dest_files=["res://.godot/imported/low_poly_forest.glb-14aac6af1717c85b049fd80adbcd9b4d.scn"]
 
 [params]
 

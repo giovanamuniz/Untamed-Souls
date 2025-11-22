@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dqe8bb0c7m5h7"
-path="res://.godot/imported/fast_urban_tree.glb-aea2daad7fdfd58696f66c0bab3e34a7.scn"
+path="res://.godot/imported/fast_urban_tree.glb-f18a329963aed5e070f0ed73d28c44cf.scn"
 
 [deps]
 
-source_file="res://modelos/fast_urban_tree.glb"
-dest_files=["res://.godot/imported/fast_urban_tree.glb-aea2daad7fdfd58696f66c0bab3e34a7.scn"]
+source_file="res://Level2/modelos/fast_urban_tree.glb"
+dest_files=["res://.godot/imported/fast_urban_tree.glb-f18a329963aed5e070f0ed73d28c44cf.scn"]
 
 [params]
 
