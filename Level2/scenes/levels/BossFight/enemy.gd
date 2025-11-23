@@ -292,5 +292,6 @@ func die():
 	play_animation(ANIMATION_DEFEAT)
 	boss_defeated.emit()
 
-	await get_tree().create_timer(3.0).timeout
+	await get_tree().create_timer(2.0).timeout
+	get_tree().change_scene_to_file("res://Level2/scenes/menus/win_screen.tscn")
 	queue_free()

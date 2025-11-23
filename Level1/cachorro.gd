@@ -6,7 +6,7 @@ var posicao_inicial = Vector3(-10, 0.308, 0.516)
 
 func _on_body_entered(body):
 	# Verifica se é o Player
-	if body.is_in_group("maincharacter"):
+	if body.is_in_group("player"):
 		
 		# 1. Tira um coração (usando seu Global que já funciona)
 		Global.take_damage(1)

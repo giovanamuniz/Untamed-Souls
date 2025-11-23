@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://djywd1q2pgadj"]
 
-[ext_resource type="Script" uid="uid://vtjhj5ajdrd1" path="res://Level2/scripts/maincharacter.gd" id="1_h302n"]
+[ext_resource type="Script" uid="uid://vtjhj5ajdrd1" path="res://Level1/scenes/player/player.gd" id="1_8afob"]
 [ext_resource type="PackedScene" uid="uid://b6b6m8omjsg7j" path="res://Level1/scenes/player/test (2).glb" id="2_dovo2"]
 [ext_resource type="AudioStream" uid="uid://lrset6t6eifl" path="res://Level1/assets/audios/SoundEffects/jump-jump4.ogg" id="3_gmlin"]
 
@@ -10,7 +10,7 @@ height = 1.82487
 [node name="Player" type="CharacterBody3D" groups=["player"]]
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0)
 collision_mask = 30
-script = ExtResource("1_h302n")
+script = ExtResource("1_8afob")
 
 [node name="test (2)" parent="." instance=ExtResource("2_dovo2")]
 transform = Transform3D(3.072, 0, 0, 0, 3, 0, 0, 0, 2.345, 0, 0, 0)
@@ -72,7 +72,7 @@ bones/43/rotation = Quaternion(-0.640878, 0.669105, 0.0422036, 0.373888)
 bones/44/rotation = Quaternion(0.729351, 0.336421, 0.15961, 0.573928)
 
 [node name="RABO-BUGADO" parent="test (2)/Armature/Skeleton3D" index="0"]
-transform = Transform3D(1.05414, 0, 0, 0, 0.98375, 0, 0, 0, 1.10818, 0, 0, 0)
+transform = Transform3D(-4.60779e-08, 0, -1.10818, 0, 0.98375, 0, 1.05414, 0, -4.84401e-08, 0, 0, 0)
 
 [node name="Plane" parent="test (2)" index="1"]
 transform = Transform3D(3.77621, 0, 0, 0, 0.760517, 0, 0, 0, -0.364898, 0, -0.00116099, -0.0127297)

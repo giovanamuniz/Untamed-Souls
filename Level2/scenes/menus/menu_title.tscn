@@ -1,8 +1,9 @@
-[gd_scene load_steps=6 format=3 uid="uid://bm71rws3mqrc3"]
+[gd_scene load_steps=7 format=3 uid="uid://bm71rws3mqrc3"]
 
-[ext_resource type="Script" uid="uid://decj7maewu7v5" path="res://scripts/menu_title.gd" id="1_3ynn7"]
-[ext_resource type="FontFile" uid="uid://81845xxeshc8" path="res://assets/fonts/KiriFont.ttf" id="1_uwit8"]
-[ext_resource type="FontFile" uid="uid://cbn1vtwmn3rul" path="res://assets/fonts/FrancoisOne-Regular.ttf" id="2_3ynn7"]
+[ext_resource type="Script" uid="uid://decj7maewu7v5" path="res://Level2/scripts/menu_title.gd" id="1_3ynn7"]
+[ext_resource type="FontFile" uid="uid://81845xxeshc8" path="res://Level2/assets/fonts/KiriFont.ttf" id="1_uwit8"]
+[ext_resource type="FontFile" uid="uid://cbn1vtwmn3rul" path="res://Level2/assets/fonts/FrancoisOne-Regular.ttf" id="2_3ynn7"]
+[ext_resource type="Texture2D" uid="uid://bekqrjqsvrop2" path="res://Level2/assets/images/controles.png" id="4_e8jpi"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_3ynn7"]
 bg_color = Color(0, 0, 0, 0)
@@ -25,51 +26,6 @@ offset_right = 1908.0
 offset_bottom = 1004.0
 color = Color(0.0157413, 0.284167, 0.229632, 1)
 
-[node name="Play_Button" type="Button" parent="."]
-layout_mode = 0
-offset_left = 848.0
-offset_top = 575.0
-offset_right = 1077.0
-offset_bottom = 686.0
-theme_override_colors/font_hover_pressed_color = Color(0, 0.793429, 7.70092e-07, 1)
-theme_override_colors/icon_pressed_color = Color(1, 1, 1, 1)
-theme_override_colors/font_color = Color(0, 0, 0, 1)
-theme_override_fonts/font = ExtResource("2_3ynn7")
-theme_override_font_sizes/font_size = 72
-theme_override_styles/focus = SubResource("StyleBoxFlat_3ynn7")
-text = "JOGAR"
-flat = true
-
-[node name="Settings_Button" type="Button" parent="."]
-layout_mode = 0
-offset_left = 848.0
-offset_top = 682.0
-offset_right = 1084.0
-offset_bottom = 793.0
-theme_override_colors/font_hover_pressed_color = Color(0, 0.793429, 7.70092e-07, 1)
-theme_override_colors/icon_pressed_color = Color(1, 1, 1, 1)
-theme_override_colors/font_color = Color(0, 0, 0, 1)
-theme_override_fonts/font = ExtResource("2_3ynn7")
-theme_override_font_sizes/font_size = 72
-theme_override_styles/focus = SubResource("StyleBoxFlat_e5cs2")
-text = "OPÇÕES"
-flat = true
-
-[node name="Leave_Button" type="Button" parent="."]
-layout_mode = 0
-offset_left = 848.0
-offset_top = 793.0
-offset_right = 1077.0
-offset_bottom = 904.0
-theme_override_colors/font_hover_pressed_color = Color(0, 0.793429, 7.70092e-07, 1)
-theme_override_colors/icon_pressed_color = Color(1, 1, 1, 1)
-theme_override_colors/font_color = Color(0, 0, 0, 1)
-theme_override_fonts/font = ExtResource("2_3ynn7")
-theme_override_font_sizes/font_size = 72
-theme_override_styles/focus = SubResource("StyleBoxFlat_e5cs2")
-text = "SAIR"
-flat = true
-
 [node name="Label" type="Label" parent="."]
 layout_mode = 0
 offset_left = 490.0
@@ -87,4 +43,66 @@ SOULS"
 horizontal_alignment = 1
 vertical_alignment = 1
 
+[node name="Play_Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 848.0
+offset_top = 575.0
+offset_right = 1077.0
+offset_bottom = 686.0
+theme_override_colors/font_hover_pressed_color = Color(0, 0.793429, 7.70092e-07, 1)
+theme_override_colors/icon_pressed_color = Color(1, 1, 1, 1)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("2_3ynn7")
+theme_override_font_sizes/font_size = 72
+theme_override_styles/focus = SubResource("StyleBoxFlat_3ynn7")
+text = "JOGAR"
+flat = true
+
+[node name="PopupControles" type="PopupPanel" parent="."]
+size = Vector2i(1928, 1088)
+
+[node name="TextureRect" type="TextureRect" parent="PopupControles"]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = 4.0
+offset_top = 4.0
+offset_right = 1924.0
+offset_bottom = 1084.0
+grow_horizontal = 2
+grow_vertical = 2
+texture = ExtResource("4_e8jpi")
+
+[node name="Controls_Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 791.0
+offset_top = 682.0
+offset_right = 1142.0
+offset_bottom = 793.0
+theme_override_colors/font_hover_pressed_color = Color(0, 0.793429, 7.70092e-07, 1)
+theme_override_colors/icon_pressed_color = Color(1, 1, 1, 1)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("2_3ynn7")
+theme_override_font_sizes/font_size = 72
+theme_override_styles/focus = SubResource("StyleBoxFlat_e5cs2")
+text = "CONTROLES"
+flat = true
+
+[node name="Leave_Button" type="Button" parent="."]
+layout_mode = 0
+offset_left = 848.0
+offset_top = 793.0
+offset_right = 1077.0
+offset_bottom = 904.0
+theme_override_colors/font_hover_pressed_color = Color(0, 0.793429, 7.70092e-07, 1)
+theme_override_colors/icon_pressed_color = Color(1, 1, 1, 1)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("2_3ynn7")
+theme_override_font_sizes/font_size = 72
+theme_override_styles/focus = SubResource("StyleBoxFlat_e5cs2")
+text = "SAIR"
+flat = true
+
 [connection signal="pressed" from="Play_Button" to="." method="_on_play_button_pressed"]
+[connection signal="pressed" from="Controls_Button" to="." method="_on_controls_button_pressed"]
+[connection signal="pressed" from="Leave_Button" to="." method="_on_leave_button_pressed"]

@@ -1,13 +1,13 @@
 [gd_scene load_steps=12 format=3 uid="uid://b3gguxq43ipen"]
 
-[ext_resource type="PackedScene" uid="uid://q7cr6bsh2eyv" path="res://scenes/levels/BossFight/Models/bob.tscn" id="1_cjpch"]
-[ext_resource type="PackedScene" uid="uid://cqscwskr1upb7" path="res://scenes/levels/BossFight/enemy.tscn" id="2_ulbe8"]
-[ext_resource type="PackedScene" uid="uid://j18twf1sm2sh" path="res://scenes/levels/BossFight/Models/long_crate.glb" id="3_hpcug"]
-[ext_resource type="PackedScene" uid="uid://yolxra27hw3c" path="res://scenes/levels/BossFight/Models/fence_concrete-_15mb.glb" id="4_t2roj"]
-[ext_resource type="PackedScene" uid="uid://6unvg01niqjj" path="res://scenes/levels/BossFight/Models/low_poly_forest.glb" id="5_36axh"]
-[ext_resource type="Texture2D" uid="uid://bgs483mnsd00k" path="res://scenes/levels/BossFight/Images/Montana.png" id="6_fnjqm"]
-[ext_resource type="PackedScene" uid="uid://dd2qdkjy187y5" path="res://scenes/hud.tscn" id="7_umrqt"]
-[ext_resource type="MeshLibrary" uid="uid://h2q0d6puy6di" path="res://resources/world-blocks/world-block-v1.tres" id="8_of0ii"]
+[ext_resource type="PackedScene" uid="uid://q7cr6bsh2eyv" path="res://Level2/scenes/levels/BossFight/Models/bob.tscn" id="1_cjpch"]
+[ext_resource type="PackedScene" uid="uid://cqscwskr1upb7" path="res://Level2/scenes/levels/BossFight/enemy.tscn" id="2_ulbe8"]
+[ext_resource type="PackedScene" uid="uid://j18twf1sm2sh" path="res://Level2/scenes/levels/BossFight/Models/long_crate.glb" id="3_hpcug"]
+[ext_resource type="PackedScene" uid="uid://yolxra27hw3c" path="res://Level2/scenes/levels/BossFight/Models/fence_concrete-_15mb.glb" id="4_t2roj"]
+[ext_resource type="PackedScene" uid="uid://6unvg01niqjj" path="res://Level2/scenes/levels/BossFight/Models/low_poly_forest.glb" id="5_36axh"]
+[ext_resource type="Texture2D" uid="uid://bgs483mnsd00k" path="res://Level2/scenes/levels/BossFight/Images/Montana.png" id="6_fnjqm"]
+[ext_resource type="PackedScene" uid="uid://dd2qdkjy187y5" path="res://Level2/scenes/hud.tscn" id="7_umrqt"]
+[ext_resource type="MeshLibrary" uid="uid://h2q0d6puy6di" path="res://Level2/resources/world-blocks/world-block-v1.tres" id="8_of0ii"]
 
 [sub_resource type="SphereShape3D" id="SphereShape3D_3eom7"]
 radius = 0.593656

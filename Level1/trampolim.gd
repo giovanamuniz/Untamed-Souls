@@ -4,7 +4,7 @@ extends Area3D
 
 func _on_body_entered(body):
 	
-	if body.is_in_group("maincharacter"):
+	if body.is_in_group("player"):
 		
 	
 		body.velocity.y = forca_pulo

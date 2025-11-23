@@ -17,7 +17,7 @@ func add_health(amount = 1):
 func take_damage(amount = 1):
 	current_health -= amount
 	get_tree().reload_current_scene()
-	if current_health < 0:
+	if current_health < 1:
 		get_tree().change_scene_to_file("res://Level2/scenes/menus/menu_game_over.tscn")
 		current_health = 0
 	

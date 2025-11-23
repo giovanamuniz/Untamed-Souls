@@ -13,7 +13,7 @@ func _process(delta: float) -> void:
 	rotate_y(deg_to_rad(ROT_SPEED))
 	
 func _on_body_entered(body):
-	if body.name == "Player": 
+	if body.name == "Player" or "MainCharacter": 
 		Global.add_health(1)
 
 		SoundManager.play_banana_sound()
