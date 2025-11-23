@@ -1,0 +1,26 @@
+[gd_scene load_steps=3 format=3 uid="uid://dmcoo47tf818f"]
+
+[ext_resource type="Script" uid="uid://d0aj0vl3d8v5v" path="res://intro.gd" id="1_4poi5"]
+[ext_resource type="VideoStream" uid="uid://bbr6qhjwr3kyc" path="res://Level2/assets/images/Untamed Souls Intro Cutscene (NoDelay).ogv" id="2_0pxvk"]
+
+[node name="Intro" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_4poi5")
+
+[node name="VideoStreamPlayer" type="VideoStreamPlayer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+stream = ExtResource("2_0pxvk")
+autoplay = true
+expand = true
+
+[connection signal="finished" from="VideoStreamPlayer" to="." method="_on_video_stream_player_finished"]
