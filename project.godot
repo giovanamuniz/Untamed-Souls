@@ -17,6 +17,7 @@ config/icon="res://icon.svg"
 
 [autoload]
 
+Interpreter="*res://Level2/scripts/DSL_Interpreter.gd"
 FadeControl="*res://Level2/resources/fade_control.tscn"
 SoundManager="*res://Level2/resources/sound_manager.tscn"
 Global="*res://Level2/scripts/global.gd"

@@ -7,6 +7,11 @@ var current_health = MIN_HEALTH
 
 signal health_updated
 
+func reset_health():
+	current_health = MIN_HEALTH
+	health_updated.emit()
+	print("Jogo reiniciado! Vida atual:", current_health)
+	
 func add_health(amount = 1):
 	current_health += amount
 	if current_health > MAX_HEALTH:

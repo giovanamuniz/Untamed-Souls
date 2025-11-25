@@ -1,0 +1,5 @@
+PRINT "Teste de Falha Iniciado"
+# O comando abaixo não existe, deve gerar erro no console
+VOAR_ALTO 100
+SET_SPEED
+# O SET_SPEED acima está sem argumento, deve gerar erro sintático
