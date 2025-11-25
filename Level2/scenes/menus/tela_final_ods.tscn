@@ -1,0 +1,41 @@
+[gd_scene load_steps=3 format=3 uid="uid://dxs8xdwxc358f"]
+
+[ext_resource type="Script" uid="uid://d31yl85l5jl4t" path="res://tela_final_ods.gd" id="1_y7fjm"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_2tc6j"]
+font_size = 37
+
+[node name="TelaFinalODS" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(1.48376, 1.48376)
+script = ExtResource("1_y7fjm")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = 141.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_top = -6.0
+offset_right = 1289.0
+offset_bottom = 647.0
+text = "O tráfico de animais silvestres é a terceira maior 
+atividade ilícita do mundo. 
+Untamed Souls apoia a ODS 15 da ONU: 
+Proteger, recuperar e promover o uso sustentável 
+dos ecossistemas terrestres e deter a perda de biodiversidade. 
+Proteja nossa fauna."
+label_settings = SubResource("LabelSettings_2tc6j")
+horizontal_alignment = 1
+vertical_alignment = 1

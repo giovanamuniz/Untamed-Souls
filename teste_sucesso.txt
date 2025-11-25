@@ -1,0 +1,4 @@
+PRINT "Teste de Sucesso Iniciado"
+SET_SPEED 50.0
+SET_GRAVITY 5.0
+PRINT "Teste Finalizado sem erros"

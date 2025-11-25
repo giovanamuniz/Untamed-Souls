@@ -229,7 +229,7 @@ func handle_wall_collision():
 		attack_hitbox.monitoring = false
 
 	var reverse_impact_speed = -1.0
-	var rising_duration = 1.2
+	var rising_duration = 0.3
 
 	animation_player.play(ANIMATION_RISING, -1.0, reverse_impact_speed)
 
@@ -244,7 +244,7 @@ func handle_wall_collision():
 	log_state()
 	play_animation(ANIMATION_VULNERABLE)
 
-	await get_tree().create_timer(2.0).timeout
+	await get_tree().create_timer(1.5).timeout
 
 	if current_state == BossState.VULNERABLE:
 		play_animation(ANIMATION_RISING)
@@ -277,7 +277,7 @@ func take_damage():
 		if current_hp <= 0:
 			die()
 		else:
-			get_tree().create_timer(0.5).timeout.connect(start_new_cycle)
+			get_tree().create_timer(1.0).timeout.connect(start_new_cycle)
 
 
 
@@ -293,5 +293,9 @@ func die():
 	boss_defeated.emit()
 
 	await get_tree().create_timer(2.0).timeout
-	get_tree().change_scene_to_file("res://Level2/scenes/menus/win_screen.tscn")
-	queue_free()
+	
+	FadeControl.transition()
+	await FadeControl.on_transition_finished
+	
+	get_tree().change_scene_to_file("res://Level2/scenes/menus/tela_final.tscn")
+	

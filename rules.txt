@@ -1,0 +1,11 @@
+# Configurações da DSL para Untamed Souls
+PRINT "Iniciando leitura dos parametros..."
+
+# Define a velocidade do player (Padrão era 10)
+SET_SPEED 10.0
+
+# Define a gravidade (Padrão era 28)
+# Se colocar muito baixo, o macaco flutua (Moon gravity)
+SET_GRAVITY 10.0
+
+PRINT "Parametros aplicados com sucesso!"

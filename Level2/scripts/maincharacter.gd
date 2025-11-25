@@ -16,6 +16,10 @@ extends CharacterBody3D
 var xform: Transform3D
 var velocity_x: float = 0.0
 
+func _ready():
+
+	Interpreter.executar_dsl("res://rules.txt")
+
 func _physics_process(delta: float) -> void:
 
 	var input_dir: float = Input.get_action_strength("move_right") - Input.get_action_strength("move_left")
